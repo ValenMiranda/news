@@ -10,6 +10,11 @@
 	font-weight: 300;
 }
 
+.navbar-brand {
+    padding: 15px 0px;
+    font-size: 30px;/
+}
+
 .navbar{
 	background-color: white;
 	border: none;
@@ -23,4 +28,22 @@
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+hr{
+	border: 1px solid #EC454D;
+	margin: 10px 20px;
+}
+
+.uno img{
+	width: 85%;
+	padding: 0 10px;
+}
+
+.dos img{
+	margin-left: 0;
+}
+
+span{
+	float: right;
 }
